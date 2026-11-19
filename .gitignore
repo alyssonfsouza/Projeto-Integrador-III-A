@@ -1,0 +1,19 @@
+# Binários compilados
+out/
+bin/
+*.class
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs temporários
+*.log
